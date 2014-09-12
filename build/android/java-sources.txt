@@ -1,0 +1,7 @@
+"/Users/macbook/Titanium-development/workspaces/project1/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/macbook/Titanium-development/workspaces/project1/build/android/gen/dunst/check/ApplicationStylesheet.java"
+"/Users/macbook/Titanium-development/workspaces/project1/build/android/gen/dunst/check/Project1Activity.java"
+"/Users/macbook/Titanium-development/workspaces/project1/build/android/gen/dunst/check/Project1AppInfo.java"
+"/Users/macbook/Titanium-development/workspaces/project1/build/android/gen/dunst/check/Project1Application.java"
+"/Users/macbook/Titanium-development/workspaces/project1/build/android/gen/dunst/check/R.java"
+"/Users/macbook/Titanium-development/workspaces/project1/build/android/gen/ti/modules/titanium/ui/R.java"

@@ -1,0 +1,1 @@
+/Users/macbook/Titanium-development/workspaces/project1/Resources/app.js
